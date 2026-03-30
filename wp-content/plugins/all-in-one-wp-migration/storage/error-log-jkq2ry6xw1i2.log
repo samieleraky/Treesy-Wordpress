@@ -1,0 +1,3 @@
+Jan 27 2026 13:34:49
+{"Number":2,"Message":"rmdir(C:\\Users\\Bruger\\Local Sites\\treesy\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\jkq2ry6xw1i2): Directory not empty","File":"C:\\Users\\Bruger\\Local Sites\\treesy\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":74}
+
